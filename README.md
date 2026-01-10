@@ -96,7 +96,7 @@ The dataset used in this project represents banking and customer data, including
 
 ## 🚀 How to Use the Dashboard
 
-1. Download the `.pbix` file from this repository
+1. Download the `.pbix` file from this repository or use this <a href="https://github.com/Tarun5c7/Bank-Analysis---Powerbi/blob/main/Bank%20Data%20Analytics%20dashboard.pbix">.Pbix</a>
 2. Open it using **Power BI Desktop**
 3. Use slicers to filter data by branch, account type, or date
 4. Interact with visuals to explore insights
