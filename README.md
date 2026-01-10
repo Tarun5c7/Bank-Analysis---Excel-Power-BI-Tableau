@@ -131,7 +131,7 @@ The dataset used in this project represents banking and customer data, including
 
 ## 👤 Author
 
-**[Tarun Panditi]**
+**Tarun Panditi** |
 Data Analytics Enthusiast | Power BI Developer
 
 ---
