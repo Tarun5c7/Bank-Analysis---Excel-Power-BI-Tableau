@@ -2,9 +2,13 @@
 
 ## 📊 Project Overview
 
-The **Bank Data Analytics Dashboard** is an interactive Power BI project developed to analyze key banking operations and customer-related metrics. This dashboard converts raw banking data into actionable insights, helping stakeholders understand financial performance, customer behavior, and operational efficiency.
+The **Bank Data Analytics Dashboard** is a comprehensive Business Intelligence project developed using:
+ * Microsoft Excel
+ * Microsoft Power BI
+ * Tableau Desktop
 
-The project highlights practical application of **Power BI, data modeling, Power Query, and DAX** to create a professional, insight-driven dashboard suitable for business and academic use.
+This project analyzes banking operations, financial performance, and customer behavior through interactive dashboards. It transforms raw banking data into actionable insights to support strategic decision-making and performance monitoring.
+The project demonstrates strong skills in data cleaning, modeling, KPI development, and dashboard design across multiple BI platforms.
 
 ---
 
@@ -20,10 +24,27 @@ The project highlights practical application of **Power BI, data modeling, Power
 
 ## 🛠 Tools & Technologies Used
 
-* **Power BI Desktop** – Dashboard creation and visualization
-* **Power Query** – Data cleaning and transformation
-* **DAX (Data Analysis Expressions)** – Calculated measures and KPIs
-* **Excel / CSV** – Source data files
+📗 Excel
+
+ * Pivot Tables & Pivot Charts
+ * Slicers
+ * Advanced Formulas (SUMIFS, IF, COUNTIFS, XLOOKUP)
+ * Data Cleaning & Structuring
+
+📊 Power BI
+
+ * Power Query (Data Transformation)
+ * Data Modeling & Relationships
+ * DAX (Data Analysis Expressions)
+ * Interactive Visualizations
+
+📈 Tableau
+
+ * Calculated Fields
+ * Parameters
+ * Dashboard Actions
+ * Interactive Filtering
+ * Visual Storytelling
 
 ---
 
@@ -84,11 +105,21 @@ The dataset used in this project represents banking and customer data, including
 ---
 
 ## 📷 Dashboard Preview
+📗 Excel Dashboard
+
+<img width="1378" height="656" alt="Screenshot 2026-03-04 120238" src="https://github.com/user-attachments/assets/53b5c9b4-1a9b-479f-bc63-c60e24ad1309" />
+
+📊 Power BI Dashboard
+
 **1st Page of the Dashboard**
 <img width="1312" height="741" alt="Screenshot 2026-01-10 131926" src="https://github.com/user-attachments/assets/8b0c7736-ba5d-4d3a-8d8f-73821b13dfad" />
 **2nd Page of the Dashboard**
 <img width="1299" height="737" alt="Screenshot 2026-01-10 132013" src="https://github.com/user-attachments/assets/583193e6-e330-40a6-adf8-d96d3b750112" />
 
+
+📈 Tableau Dashboard
+
+<img width="1650" height="783" alt="Screenshot 2026-03-04 102744" src="https://github.com/user-attachments/assets/039f05f4-6a07-4e9a-a47f-3400739e1358" />
 
 *
 
@@ -96,10 +127,15 @@ The dataset used in this project represents banking and customer data, including
 
 ## 🚀 How to Use the Dashboard
 
-1. Download the `.pbix` file from this repository or use this <a href="https://github.com/Tarun5c7/Bank-Analysis---Powerbi/blob/main/Bank%20Data%20Analytics%20dashboard.pbix">.Pbix</a>
-2. Open it using **Power BI Desktop**
-3. Use slicers to filter data by branch, account type, or date
-4. Interact with visuals to explore insights
+1.Download the respective dashboard file:
+ * .xlsx for Excel
+ * .pbix for Power BI
+ * .twbx for Tableau
+2.Open using:
+ * Microsoft Excel
+ * Power BI Desktop
+ * Tableau Desktop
+3.Use slicers and filters to explore insights interactively.   
 
 ---
 
@@ -132,7 +168,7 @@ The dataset used in this project represents banking and customer data, including
 ## 👤 Author
 
 **Tarun Panditi** |
-Data Analytics Enthusiast | Power BI Developer
+Data Analytics Enthusiast | Excel | Power BI | Tableau
 
 ---
 
